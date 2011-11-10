@@ -1,0 +1,65 @@
+body {
+    background: #0001ff url(/images/background.png) repeat-x;
+    font-family: Georgia, Palatino, Times, serif;
+}
+
+div#main-container {
+    width: 1000px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: white;
+}
+
+div#main-container a {
+    color: #3369b6;
+}
+
+#content {
+    line-height: 1.5em;
+}
+
+h1, h2, h3, h4 {
+    font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 32pt;
+}
+
+h2 { 
+    font-size: 16pt;
+}
+
+h3 {
+    font-size: 14pt;
+}
+
+h4 {
+    font-size: 12pt;
+}
+
+#footer {
+    font-size: 10pt;
+}
+
+.clear {
+    clear: both;
+}
+
+hr {
+    background-color: #eee;
+    border: 0 none;
+    height: 1px;
+    margin: 10px 0;
+}
+
+pre {
+    background: none repeat scroll 0 0 #F4F4F4;
+    font: 13px/1.5 "Courier 10 Pitch",Courier,monospace;
+    margin-bottom: 1.625em;
+    overflow: auto;
+    padding: 0.75em 1.625em;
+}
+
+
